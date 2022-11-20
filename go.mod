@@ -7,4 +7,7 @@ require (
 	github.com/joho/godotenv v1.4.0
 )
 
-require github.com/technoweenie/multipartstreamer v1.0.1 // indirect
+require (
+	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
+	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
+)
